@@ -1,0 +1,7 @@
+/venv
+/chroma_db
+/chroma_db_sentence_transformer
+
+.env
+.env.local
+__pycache__
